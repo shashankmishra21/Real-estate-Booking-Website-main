@@ -1,0 +1,76 @@
+/* .f-container{
+    justify-content: space-between;
+    border-top: .5px solid rgba(0,0,0,0.148)
+}
+.f-left{
+    gap: 1rem;
+}
+.f-menu{
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+    font-weight: 500;
+}
+@media (max-width: 768px) {
+    .f-container{
+        justify-content: center;
+    }
+    .f-container>div{
+        align-items: center!important;
+        text-align: center;
+    }
+    .f-right{
+        justify-content: center;
+    }
+} */
+
+
+
+/* Footer.css */
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid #e7e7e7;
+  }
+  
+  .footer-branding {
+    margin-bottom: 20px;
+  }
+  
+  .footer-branding h2 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+  }
+  .footer-logo {
+    width: 150px; /* Adjust size as needed */
+    margin-bottom: 10px;
+  }
+  
+  .footer-branding p {
+    margin: 5px 0;
+    color: #555;
+    font-size: 14px;
+  }
+  
+  .footer-social-media {
+    margin: 20px 0;
+  }
+  
+  .footer-social-media a {
+    margin: 0 10px;
+    color: #333;
+    font-size: 24px;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-social-media a:hover {
+    color: #007bff; /* Change this color to match your branding */
+  }
+  
+  .footer-copyright {
+    margin-top: 20px;
+    color: #777;
+    font-size: 12px;
+  }
+  
